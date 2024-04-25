@@ -4,12 +4,12 @@
 This Java Swing application provides a user-friendly interface for viewing and manipulating images. It allows users to perform various operations such as loading images, resizing, adjusting brightness, converting images to grayscale, and more.
 
 ## Features:
-- **Choose Image:** Select an image file from your local filesystem.
-- **Show Image:** Display the selected image in its original size.
-- **Resize:** Resize the image by specifying custom width and height.
-- **Grayscale:** Convert the image to grayscale.
-- **Brightness:** Adjust the brightness of the image.
-- **Exit:** Close the application.
+- **$\textcolor{yellow}{Choose \ Image:\ }$** Select an image file from your local filesystem.
+-  **$\textcolor{yellow}{Show \ Image:\ }$** Display the selected image in its original size.
+-  **$\textcolor{yellow}{Resize \ Image:\ }$** Resize the image by specifying custom width and height.
+-  **$\textcolor{yellow}{Gray \ Scale:\ }$** Convert the image to grayscale.
+-  **$\textcolor{yellow}{Brightness : \ }$** Adjust the brightness of the image.
+-  **$\textcolor{yellow}{Exit : \ }$** Close the application.
 
 ## Usage:
 1. Clone the repository to your local machine.
