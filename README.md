@@ -5,10 +5,25 @@ This Java Swing application provides a user-friendly interface for viewing and m
 
 ## Features:
 - **$\textcolor{yellow}{Choose \ Image:\ }$** Select an image file from your local filesystem.
+
+ ![image](https://github.com/MohammadrezaSheikholeslami84/Image-Viewer/assets/166950228/4e2de6cd-f908-4df0-94ae-56a716651290)
+
 -  **$\textcolor{yellow}{Show \ Image:\ }$** Display the selected image in its original size.
+
+![image](https://github.com/MohammadrezaSheikholeslami84/Image-Viewer/assets/166950228/79b18d8d-faa8-4f67-a22e-071d91891e64)
+
 -  **$\textcolor{yellow}{Resize \ Image:\ }$** Resize the image by specifying custom width and height.
+  
+  ![image](https://github.com/MohammadrezaSheikholeslami84/Image-Viewer/assets/166950228/3bf747ce-a4cb-4dbc-b2c4-7300cc5824ee)
+
 -  **$\textcolor{yellow}{Gray \ Scale:\ }$** Convert the image to grayscale.
+  
+  ![image](https://github.com/MohammadrezaSheikholeslami84/Image-Viewer/assets/166950228/fbd6b847-8833-4d18-8f7b-b042796d23fe)
+
 -  **$\textcolor{yellow}{Brightness : \ }$** Adjust the brightness of the image.
+
+  ![image](https://github.com/MohammadrezaSheikholeslami84/Image-Viewer/assets/166950228/5f10474b-ea44-4b28-8172-7b731ba7714d)
+
 -  **$\textcolor{yellow}{Exit : \ }$** Close the application.
 
 ## Usage:
